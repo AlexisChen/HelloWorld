@@ -1,6 +1,5 @@
 # include <iostream>
 
-//I'm alexis
 
 int main() {
 
